@@ -1,0 +1,17 @@
+py -m pip uninstall nvidia-cublas-cu12
+py -m pip uninstall nvidia-cuda-runtime-cu12
+py -m pip uninstall nvidia-cuda-cupti-cu12
+py -m pip uninstall nvidia-cuda-nvcc-cu12
+py -m pip uninstall nvidia-cuda-nvrtc-cu12
+py -m pip uninstall nvidia-cuda-sanitizer-api-cu12
+py -m pip uninstall nvidia-cufft-cu12
+py -m pip uninstall nvidia-curand-cu12
+py -m pip uninstall nvidia-cusolver-cu12
+py -m pip uninstall nvidia-cusparse-cu12
+py -m pip uninstall nvidia-npp-cu12
+py -m pip uninstall nvidia-nvfatbin-cu12
+py -m pip uninstall nvidia-nvjitlink-cu12
+py -m pip uninstall nvidia-nvjpeg-cu12
+py -m pip uninstall nvidia-nvml-dev-cu12
+py -m pip uninstall nvidia-nvtx-cu12
+py -m pip uninstall nvidia-opencl-cu12

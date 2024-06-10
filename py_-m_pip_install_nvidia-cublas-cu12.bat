@@ -1,0 +1,17 @@
+py -m pip install nvidia-cublas-cu12
+py -m pip install nvidia-cuda-runtime-cu12
+py -m pip install nvidia-cuda-cupti-cu12
+py -m pip install nvidia-cuda-nvcc-cu12
+py -m pip install nvidia-cuda-nvrtc-cu12
+py -m pip install nvidia-cuda-sanitizer-api-cu12
+py -m pip install nvidia-cufft-cu12
+py -m pip install nvidia-curand-cu12
+py -m pip install nvidia-cusolver-cu12
+py -m pip install nvidia-cusparse-cu12
+py -m pip install nvidia-npp-cu12
+py -m pip install nvidia-nvfatbin-cu12
+py -m pip install nvidia-nvjitlink-cu12
+py -m pip install nvidia-nvjpeg-cu12
+py -m pip install nvidia-nvml-dev-cu12
+py -m pip install nvidia-nvtx-cu12
+py -m pip install nvidia-opencl-cu12
